@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Archive\TA\Individual\BinaryTrees\35\35\Source.cpp(530,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  35.vcxproj -> C:\Archive\TA\Individual\BinaryTrees\35\Debug\35.exe
